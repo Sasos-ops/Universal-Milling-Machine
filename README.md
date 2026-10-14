@@ -1,9 +1,9 @@
-# ZMM-Bulgaria-CU-1250-Lathe-Machine
-Centralized repository for all ZMM Bulgaria CU 1250 Lathe Machine documentation, including manuals, maintenance records, inspections, risk assessments, certificates, and operational resources.
+# Universal Milling Machine
+Centralized repository for Universal Milling Machine documentation, maintenance records, inspections, certificates, and operational resources.
 
 ## Documents
-- [01 Lathe Machine Manual](01_Lathe_Machine_Manual.pdf)
-- [02 Operating Procedure](02_Operating_Procedure.pdf)
-- [03 Risk Assessment](03_Risk_Assessment.pdf)
-- [04 Maintenance Schedule](04_Maintenance_Schedule.pdf)
-- [05 Lathe Machine Picture](05_Lathe_Machine_Picture.png)
+- [01 Milling Machine Manual](01_Milling_Machine_Manual.pdf)
+- [02 Milling Machine Operating Procedure](02_Milling_Machine_Operating_Procedure%20.pdf)
+- [03 Milling Machine Maintenance Schedule](03_Milling_Machine_Maintenance_Schedule.pdf)
+- [04 Milling Machine Risk Assessment](04_Milling_Machine_Risk_Assessment.pdf)
+- [05 Milling Machine Picture](05_Milling_Machine_Picture.png)
